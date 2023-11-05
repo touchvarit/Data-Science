@@ -10,17 +10,27 @@ what spreadsheets can do = store - analyze - present
 row = x-axis, column = y-axis ("คอตั้ง") 
 
 Function 
+
 function_name(required_argument_1, required_argument_2, optional_argument) 
+
 IF(condition, true, false) 
+
 กด alt+enter เพื่อขึ้นบรรทัดใหม่ในการเขียน function เป็นเรื่องที่ควรทำเพื่อให้ code มันอ่านง่าย ๆ 
+
 การเก็บข้อมูลเป็น array 
 
-filter(dataset, condition) ex.FILTER(employee, salary<100000) 
+
+=FILTER(dataset, condition) ex.FILTER(employee, salary<100000) 
+
 =QUERY(dataset, SQL-liked Syntax) ex.=QUERY( employee, “select *” )
+
 =SORT(dataset, column_to_sort, ascending) ex.SORT(employee, salary, descending) 
 we can join table with id 
+
 =VLOOKUP(id, look_up_table, columns_you_want, exact_match?) 
+
 REGEXMATCH 
+
 REGEXEXTRACT 
 
 ctrl+k เพื่อสร้าง hyperlink 
