@@ -11,9 +11,12 @@ IF(condition, true, false)
 กด alt+enter เพื่อขึ้นบรรทัดใหม่ในการเขียน function เป็นเรื่องที่ควรทำเพื่อให้ code มันอ่านง่าย ๆ 
 การเก็บข้อมูลเป็น array 
 
-filter 
-query 
-sort 
+filter(dataset, condition) ex.FILTER(employee, salary<100000) 
+=QUERY(dataset, SQL-liked Syntax) ex.=QUERY( employee, “select *” )
+=SORT(dataset, column_to_sort, ascending) ex.SORT(employee, salary, descending) 
 we can join table with id 
-vloopup 
-regular expression 
+=VLOOKUP(id, look_up_table, columns_you_want, exact_match?) 
+REGEXMATCH 
+REGEXEXTRACT 
+
+ctrl+k เพื่อสร้าง hyperlink 
