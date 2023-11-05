@@ -2,7 +2,7 @@ Introduction to Spreadsheets
 ตัวที่โคตร popular ก็จะมี google sheets, microsoft excel 
 what spreadsheets can do = store - analyze - present 
 แต่ task ที่เหมาะกับ spreadsheets ที่สุดคือขั้น analyze (อย่างสายเศรษฐศาสตร์ที่ทำงานธนาคาร เคยได้ยินมาว่าเค้าเก็บ data ไว้ที่อื่น excel แค่ไว้ดูดมาส่วนนึงเพื่อมาทำ math model เฉย ๆ) 
-สำหรับสาย data spreasheets เป็น skill prerequisite ที่จะไม่อยู่ใน resume ด้วยซ้ำ แต่ต้องแข็งแกร่งอยู่แล้ว 
+  สำหรับสาย data spreasheets เป็น skill prerequisite ที่จะไม่อยู่ใน resume ด้วยซ้ำ แต่ต้องแข็งแกร่งอยู่แล้ว 
 row = x-axis, column = y-axis ("คอตั้ง") 
 
 Function 
